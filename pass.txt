@@ -1,0 +1,8 @@
+admin@shop.pl
+123456789
+
+JanKowalski@gmail.com
+0000000000
+
+test@test.pl
+987654321
